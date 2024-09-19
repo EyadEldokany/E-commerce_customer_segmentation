@@ -1,4 +1,5 @@
 E-commerce Customer Segmentation Project
+
 Project Overview
 This project aims to perform customer segmentation using an e-commerce dataset, which consists of five interrelated tables containing customer demographic, transactional, branch, and merchant data. The goal is to build a dashboard for stakeholders and identify distinct customer groups through clustering, enabling data-driven marketing and customer loyalty strategies.
 
